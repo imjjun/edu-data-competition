@@ -1,1 +1,4 @@
-# edu-data-competition
+# 5th Edu Public Data Competition
+
+- EDA
+  - 
